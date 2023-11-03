@@ -15,10 +15,5 @@ The model achieved a moderate level of accuracy, indicating the complex nature o
 ## Usage
 Instructions for setting up the environment, running the analysis, and interpreting the results are provided. Jupyter Notebooks guide you through each step of the process.
 
-## Contributions
-We welcome contributions from educators, data scientists, and enthusiasts. Please read the CONTRIBUTING.md for guidelines on how to contribute to this project.
-
-## License
-This project is open-sourced under the MIT license.
 
 ![GCSE Insights](https://github.com/Sabbirrah/GCSE-Insights-2019-20-Performance-Analysis/assets/116674419/51c16f85-e611-452c-96c3-8fbcd9475514)
